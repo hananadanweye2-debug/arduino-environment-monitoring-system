@@ -83,8 +83,5 @@ It measures **temperature** and **gas levels**, sends the data via **Bluetooth**
    - LCD display  
 4. Servo motor can respond based on threshold values (optional behavior).
 
----
-
-## 📡 Serial & Bluetooth Output Example
 
 
